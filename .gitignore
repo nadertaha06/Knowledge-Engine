@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+# Dataset bruto (nao versionar arquivo grande)
+data/raw/*.csv
+data/raw/*.zip
+
+# Artefato principal gerado no novo fluxo
+data/processed/knowledge_base.pl
